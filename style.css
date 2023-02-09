@@ -129,7 +129,6 @@ p {
 .left-panel {
     position: relative;
     flex: 3;
-    background-image: url(/image.jpg);
 }
 
 .right-panel {
